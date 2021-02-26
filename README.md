@@ -8,5 +8,5 @@
 [Privacy](/privacy.md)
 
 ### Contact
-[Email](mailto:v2kapps@gmail.com?subject=[GitHub]%20Contact%20V2KApps)
-v2kapps@gmail.com
+[Email](mailto:v2kapps@gmail.com?subject=[GitHub]%20Contact%20V2KApps)  
+_v2kapps@gmail.com_
