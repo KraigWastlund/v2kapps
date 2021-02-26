@@ -2,7 +2,7 @@
 
 ### Current Apps:
 
-![Image](/ridespeed_sim.png)
+![Image](/ridespeed_sim.png | width=100)
 
 ### Markdown
 
