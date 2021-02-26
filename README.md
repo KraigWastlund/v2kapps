@@ -4,6 +4,9 @@
 
 <img src="/ridespeed_sim.png" width="200"/>
 
+### Privacy Policy:
+[Privacy](/privacy.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
