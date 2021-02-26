@@ -10,26 +10,28 @@ How do we use your information?
 _We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website_
 
 How do we protect your information?  
-_ Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible._
+_Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible._
 * We do not use Malware Scanning.
 * We do not use an SSL certificate
 * We do not need an SSL because:
   * authentication happens on the iOS store.
 
 Do we use ‘cookies’?
-We do not use cookies for tracking purposes
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
-However, you will still be able to place orders .
+_Nope_
+
 Third-party disclosure
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+_We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information._
+
 Third-party links
-We do not include or offer third-party products or services on our website.
+_We do not include or offer third-party products or services on our website._
+
 Google
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+_Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en_
+
 We have not enabled Google AdSense on our site but we may do so in the future.
 California Online Privacy Protection Act
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
 According to CalOPPA, we agree to the following:
 Users can visit our site anonymously.
 Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
@@ -38,6 +40,7 @@ You will be notified of any Privacy Policy changes:
 • On our Privacy Policy Page
 Can change your personal information:
 • By logging in to your account
+
 How does our site handle Do Not Track signals?
 We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 Does our site allow third-party behavioral tracking?
