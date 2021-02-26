@@ -8,4 +8,4 @@
 [Privacy](/privacy.md)
 
 ### Contact
-[V2KApps](mailto:v2kapps@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[V2KApps](mailto:v2kapps@gmail.com?subject=[GitHub]%20Contact%20V2KApps)
