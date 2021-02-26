@@ -2,8 +2,7 @@
 
 ### Current Apps:
 
-![Image]
-(Simulator Screen Shot - iPhone 12 Pro Max - 2021-02-23 at 23.44.07.png)
+![Image](/ridespeed_sim.png)
 
 ### Markdown
 
