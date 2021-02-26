@@ -1,17 +1,16 @@
 ## Privacy Policy
 
-What personal information do we collect from the people that visit our blog, website or app?
-We do not collect information from visitors of our site.
-or other details to help you with your experience.
+What personal information do we collect from the people that visit our blog, website or app?  
+_We do not collect information from visitors of our site or other details to help you with your experience._
 
 When do we collect information?  
 _We collect information from you when you or enter information on our site._
 
-How do we use your information?
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+How do we use your information?  
+_We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website_
 
-How do we protect your information?
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+How do we protect your information?  
+_ Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible._
 * We do not use Malware Scanning.
 * We do not use an SSL certificate
 * We do not need an SSL because:
