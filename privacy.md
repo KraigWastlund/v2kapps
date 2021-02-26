@@ -4,8 +4,8 @@ What personal information do we collect from the people that visit our blog, web
 We do not collect information from visitors of our site.
 or other details to help you with your experience.
 
-When do we collect information?
-We collect information from you when you or enter information on our site.
+When do we collect information?  
+_We collect information from you when you or enter information on our site._
 
 How do we use your information?
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
