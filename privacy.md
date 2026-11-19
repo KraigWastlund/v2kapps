@@ -1,4 +1,11 @@
+---
+title: Privacy Policy
+permalink: /privacy.html
+---
 ## Privacy Policy
+
+This is the RideSpeed privacy policy. It is also at [RideSpeed privacy](/ridespeed/privacy/).
+
 
 What personal information do we collect from the people that visit our blog, website or app?  
 _We do not collect information from visitors of our site or other details to help you with your experience._

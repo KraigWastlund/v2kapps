@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Boing on the App Store</title>
+<meta name="robots" content="noindex">
+<!-- Issue #49: people without Boing land here from Settings > Share Boing. iOS opens Boing directly
+     when it's installed (universal link). Everyone else goes to the App Store with this share's
+     own campaign token (ct=settings_share, separate from the score shares' share-<destination>),
+     plus the provider token (pt) if the link has one. -->
+<script>
+(function () {
+  var store = new URL("https://apps.apple.com/app/id6450435508");
+  var params = new URLSearchParams(window.location.search);
+  var pt = params.get("pt");
+  if (pt && /^[A-Za-z0-9_-]{1,64}$/.test(pt)) { store.searchParams.set("pt", pt); }
+  store.searchParams.set("ct", "settings_share");
+  store.searchParams.set("mt", "8");
+  window.location.replace(store.toString());
+})();
+</script>
+</head>
+<body style="background:#0b0d1a;color:#eee;font-family:-apple-system,sans-serif;text-align:center;padding-top:30vh">
+<p><a style="color:#2ee6f0" href="https://apps.apple.com/app/id6450435508?ct=settings_share&amp;mt=8">Get Boing on the App Store</a></p>
+</body>
+</html>
