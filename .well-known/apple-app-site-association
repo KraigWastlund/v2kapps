@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["USSGBV55CM.com.ktw.boing"],
+        "components": [
+          { "/": "/boing/challenge", "comment": "Boing #39: shared score challenge" },
+          { "/": "/boing/challenge/", "comment": "same, trailing slash" },
+          { "/": "/boing/app", "comment": "Boing #49: Settings > Share Boing" },
+          { "/": "/boing/app/", "comment": "same, trailing slash" }
+        ]
+      },
+      {
+        "appIDs": ["USSGBV55CM.com.v2kapps.motometer"],
+        "components": [
+          { "/": "/ridespeed/app/*", "comment": "placeholder; RideSpeed has no universal links yet" },
+          { "/": "/ridespeed/share/*", "comment": "placeholder; RideSpeed has no universal links yet" }
+        ]
+      }
+    ]
+  }
+}

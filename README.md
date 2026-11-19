@@ -1,12 +1,9 @@
-## Welcome to V2KAPPS
+---
+published: false
+---
 
-### Current Apps:
+# v2kapps.com
 
-<img src="/ridespeed_sim.png" width="200"/>
+GitHub Pages site for [v2kapps.com](https://v2kapps.com): RideSpeed, Boing, and Lost in Spacey.
 
-### Privacy Policy:
-[Privacy](/privacy.md)
-
-### Contact
-[Email](mailto:v2kapps@gmail.com?subject=[GitHub]%20Contact%20V2KApps)  
-_v2kapps@gmail.com_
+The live site is published from the `main` branch.
