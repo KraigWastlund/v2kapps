@@ -4,17 +4,17 @@ permalink: /boing/privacy/
 ---
 ## Boing Privacy Policy
 
-Effective: 19 November 2026  
+Effective: 20 November 2026  
 App: Boing (bundle id com.ktw.boing) by Kraig Wastlund, an individual developer.  
 Contact: [v2kapps@gmail.com](mailto:v2kapps@gmail.com?subject=Boing%20privacy)
 
 **The short version:** Boing has no accounts, no ads, no tracking and no third-party analytics. It never asks for your
 location, contacts, camera or microphone. The only data that leaves your device is crash and diagnostic data (which you
-can switch off) and feedback you choose to send.
+can switch off) and feedback you choose to send. None of it is linked to your identity.
 
 ### What stays on your device
-Your game in progress, your best round and best shot, your settings, which ball skins you own, and a random install
-number. This is stored on your device only. Deleting the app deletes it.
+Your game in progress, your best round and best shot, your settings, and which ball skins you own. This is stored on
+your device only. Deleting the app deletes it.
 
 ### Crash reports and diagnostics (on by default, you can turn them off)
 Boing uses Google's Firebase Crashlytics to find and fix crashes. When Boing crashes, or something goes wrong (for
@@ -23,12 +23,14 @@ example a failed feedback send), it sends:
 - the crash details (technical stack traces and app state), your device model, iOS version and app version,
 - a few game values (round, number of balls and bombs, your best round and shot, and which settings are on),
 - recent app log lines, with emails and secrets removed,
-- a random install number that identifies the app install, not you, and the technical identifiers Firebase creates
-  for an install (a Firebase installation ID), plus session information such as how long the app was in the background and the network type.
+- session information such as how long the app was in the background and the network type, and the technical identifiers
+  Firebase creates for an install (a Firebase installation ID).
+
+Boing does not set a Crashlytics user ID or install number. This data is not linked to your identity.
 
 This is used only to fix bugs and keep Boing running well. Google processes it for me under Firebase's terms
-(see [Firebase privacy and security](https://firebase.google.com/support/privacy)). Crash data is kept for a limited time
-by Firebase *[verify at launch: Crashlytics retention, about 90 days]*.
+(see [Firebase privacy and security](https://firebase.google.com/support/privacy)). Firebase Crashlytics keeps crash
+reports for 90 days, then deletes them.
 To stop it, turn off **Settings > Crash Reports**. Nothing more is sent after that.
 
 ### Keeping the feedback service safe
@@ -70,7 +72,7 @@ Boing isn't directed at children under 13 and doesn't knowingly collect personal
 
 ### Your choices
 Turn off Crash Reports in Settings. Delete the app to remove everything stored on your device. To ask about, or delete, feedback you sent, email me at the address above.
-Because crash reports use a random install number, please include the approximate date and your device model.
+Because crash reports are not linked to your identity, please include the approximate date and your device model.
 Residents of the EU, UK, California and other regions with privacy laws have the rights those laws give (access, deletion, correction);
 email me and I'll act on it.
 
