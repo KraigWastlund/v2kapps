@@ -35,6 +35,8 @@ device only in these cases:
   saved to Firestore.
 - **Publishing a ride for other riders** (Premium, with a verified phone): the route is saved to
   Firestore.
+- **Viewing other riders' points and rides (Premium):** the app asks Firestore for points and
+  rides in the map area you're viewing. Free riders: no such requests.
 - The map is Apple Maps, which loads map tiles and (if you leave Apple Places on) place information
   for the area you're viewing.
 
@@ -53,7 +55,7 @@ yours again if you verify the same number.
 ### Public points of interest and photos
 If you post a point of interest for other riders, RideSpeed saves its name, type, description,
 location, optional website, hours and season, and any photos you attach, under your account id.
-Photos you pick (with the system photo picker) are stored in Firebase Storage. Other signed-in
+Photos you pick (with the system photo picker) are stored in Firebase Storage. Other Premium
 riders can see live points and their photos. You can edit or delete your own posts. Votes and
 reports you make are stored under your account id on that point. Private points of interest, and
 their photos, stay on your device unless you choose to share one.
@@ -61,7 +63,7 @@ their photos, stay on your device unless you choose to share one.
 ### Published rides
 Saved rides stay on your device. If you publish a ride for other riders, RideSpeed uploads the
 name, description and route to Firestore under your account id. You can delete a ride you
-published. Other signed-in riders can see live published rides.
+published. Other Premium riders can see live published rides.
 
 ### Crash reports and diagnostics
 RideSpeed uses Google's Firebase Crashlytics in Release builds to find and fix crashes. Collection
