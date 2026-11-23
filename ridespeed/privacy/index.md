@@ -4,7 +4,7 @@ permalink: /ridespeed/privacy/
 ---
 ## RideSpeed Privacy Policy
 
-Effective: 21 November 2026  
+Effective: 23 November 2026  
 App: RideSpeed (bundle id com.v2kapps.motometer) by Kraig Wastlund.  
 Contact: [v2kapps@gmail.com](mailto:v2kapps@gmail.com?subject=RideSpeed%20privacy)
 
@@ -44,6 +44,14 @@ device only in these cases:
 Road speed limits come from OpenStreetMap and are used under the
 [Open Database Licence (ODbL)](https://www.openstreetmap.org/copyright). Settings > About includes
 the credit © OpenStreetMap contributors.
+
+If you add a speed limit for a road (Premium, with a verified phone), RideSpeed stores
+under your account — keyed by the road's OpenStreetMap id — the limit you entered, the
+road's name, the area tile you were in, and the time you saved it; only you can read
+that record. An anonymized suggestion for the road (the agreed limit and how many
+riders have a value, with no account ids) is built only when at least two riders
+agree, and other riders see it only if they turn on Settings > Adopt user suggested
+speed limits (off by default).
 
 ### Account and phone number
 When you open RideSpeed, it signs you in anonymously with Firebase Authentication (an account id,
